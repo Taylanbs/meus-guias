@@ -683,7 +683,7 @@ const CHAPTERS = [
       </div>
 
       <div class="callout-quote">
-        <p>O pão que você faz com as próprias mãos carrega sua energia, sua intenção e sua ciência. Não existe nada mais premium do que isso.</p>
+        <p>O pão que você faz com as próprias mãos carrega sua energia, sua intenção e sua ciência. Não existe nada mais prazeroso do que isso.</p>
       </div>
 
       <p style="text-align:center; margin-top:48px; font-family:'Lora',serif; font-style:italic; color:var(--text-muted);">
