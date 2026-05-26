@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arte & Ciência da Panificação</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Sans:wght@300;400;500&family=Cinzel:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/sidebar.css">
+  <link rel="stylesheet" href="css/reader.css">
+  <link rel="stylesheet" href="css/components.css">
+</head>
+<body>
+
+  <div class="sidebar-overlay" id="overlay" onclick="closeSidebar()"></div>
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <div class="sidebar-book-title">Arte & Ciência da Panificação</div>
+      <div class="sidebar-author">Taylan Santos</div>
+    </div>
+
+    <div class="sidebar-progress-wrap">
+      <div class="progress-label">Progresso de leitura</div>
+      <div class="progress-bar-track">
+        <div class="progress-bar-fill" id="progressFill"></div>
+      </div>
+      <div class="progress-pct" id="progressPct">0%</div>
+    </div>
+
+    <nav class="sidebar-nav" id="sidebarNav">
+      <!-- gerado pelo JS -->
+    </nav>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="reader-main">
+    <div class="reader-topbar">
+      <button class="topbar-menu-btn" onclick="toggleSidebar()">☰</button>
+      <span class="topbar-chapter" id="topbarChapter"></span>
+      <div class="topbar-actions">
+        <button class="topbar-btn" onclick="changeFontSize(-1)">A−</button>
+        <button class="topbar-btn" onclick="changeFontSize(1)">A+</button>
+        <button class="topbar-btn" id="darkBtn" onclick="toggleDark()">🌙</button>
+      </div>
+    </div>
+
+    <div class="reader-scroll" id="readerScroll">
+      <div class="reader-content" id="readerContent">
+        <!-- conteúdo injetado pelo JS -->
+      </div>
+    </div>
+  </main>
+
+  <script src="js/chapters.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
