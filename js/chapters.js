@@ -40,7 +40,7 @@ const CHAPTERS = [
 
       <h2>1. A Farinha: A Base de Tudo</h2>
 
-      <p>A farinha de trigo é composta principalmente por <strong>amido (70–75%)</strong>, <strong>proteínas (10–14%)</strong> e pequenas frações de lipídios, minerais e vitaminas do complexo B. As proteínas de maior interesse são a <em>gliadina</em> e a <em>glutenina</em>, que, quando hidratadas e trabalhadas mecanicamente, formam o glúten — a rede proteica que confere estrutura, elasticidade e capacidade de reter os gases produzidos pela fermentação.</p>
+      <p>A farinha de trigo é composta principalmente por <strong>amido (70–75%)</strong>, <strong>proteínas (10–14%)</strong> e pequenas frações de lipídios, minerais e vitaminas do complexo B. As proteínas de maior interesse são a <em>gliadina</em> e a <em>glutenina</em>, que, quando hidratadas e trabalhadas mecanicamente, formam o glúten, a rede proteica que confere estrutura, elasticidade e capacidade de reter os gases produzidos pela fermentação.</p>
 
       <div class="callout">
         <div class="callout-label">Nota Científica</div>
@@ -79,7 +79,7 @@ const CHAPTERS = [
 
       <div class="callout">
         <div class="callout-label">Temperatura Ideal</div>
-        <p>Entre 24°C e 28°C para fermentação em temperatura ambiente. Água quente acima de 40°C pode inativar as leveduras. Prefira água filtrada — o cloro pode interferir negativamente no sourdough.</p>
+        <p>Entre 24°C e 28°C para fermentação em temperatura ambiente. Água quente acima de 40°C pode inativar as leveduras. Prefira água filtrada, o cloro pode interferir negativamente no sourdough.</p>
       </div>
 
       <h2>3. O Fermento: A Alma do Pão</h2>
@@ -122,7 +122,7 @@ const CHAPTERS = [
       <ul>
         <li>Margarinas com teor de gordura <strong>acima de 70–80%</strong> apresentam comportamento mais próximo da manteiga.</li>
         <li>Margarinas <strong>"light"</strong> (com alto teor de água e ar) NÃO são recomendadas — podem comprometer a estrutura do glúten.</li>
-        <li>Atualmente a maioria das marcas no Brasil usa interesterificação — elimina ou reduz gorduras trans. Verifique sempre o rótulo.</li>
+        <li>Atualmente a maioria das marcas no Brasil usa interesterificação, que elimina ou reduz gorduras trans. Verifique sempre o rótulo.</li>
       </ul>
 
       <div class="table-wrap">
@@ -131,7 +131,7 @@ const CHAPTERS = [
             <tr><th>Marca</th><th>Tipo</th><th>% Gordura</th><th>Indicação</th></tr>
           </thead>
           <tbody>
-            <tr><td>Qualy Culinária (BRF)</td><td>Culinária sem sal</td><td>80%</td><td>Ótima — estrutura consistente</td></tr>
+            <tr><td>Qualy Culinária (BRF)</td><td>Culinária sem sal</td><td>80%</td><td>Ótima, estrutura consistente</td></tr>
             <tr><td>Becel Culinária (Unilever)</td><td>Culinária</td><td>80%</td><td>Boa para pão de forma</td></tr>
             <tr><td>Doriana Culinária (Cargill)</td><td>Culinária</td><td>75–80%</td><td>Funcional para pães simples</td></tr>
             <tr><td>Prato Fino Culinária</td><td>Culinária sem sal</td><td>80%</td><td>Boa opção custo-benefício</td></tr>
@@ -203,7 +203,7 @@ const CHAPTERS = [
         <div class="chapter-cover-ornament">✦ ✦ ✦</div>
         <div class="chapter-cover-num">Capítulo III</div>
         <h1 class="chapter-cover-title">A Ciência da Massa</h1>
-        <p class="chapter-cover-subtitle">Desenvolvimento e Fermentação — Compreender o que acontece dentro da massa é o que separa o padeiro amador do artesão.</p>
+        <p class="chapter-cover-subtitle">Desenvolvimento e Fermentação: Compreender o que acontece dentro da massa é o que separa o padeiro amador do artesão.</p>
       </div>
 
       <p>Cada etapa tem uma razão bioquímica precisa e dominar essa lógica é o que permite adaptar, criar e corrigir com maestria.</p>
@@ -214,12 +214,12 @@ const CHAPTERS = [
       <ul>
         <li>Desenvolvimento mais rápido e eficiente do glúten na sova subsequente</li>
         <li>Massa mais extensível e fácil de moldar</li>
-        <li>Miolo com alvéolos mais abertos e irregulares — característica premium dos pães artesanais</li>
+        <li>Miolo com alvéolos mais abertos e irregulares, característica premium dos pães artesanais</li>
         <li>Redução do tempo de sova em até 30%</li>
       </ul>
 
       <h2>2. A Sova: Construindo a Rede de Glúten</h2>
-      <p>A sova tem como objetivo desenvolver e organizar a rede de glúten — a malha proteica tridimensional que retém o CO₂ produzido pela fermentação e confere estrutura ao pão.</p>
+      <p>A sova tem como objetivo desenvolver e organizar a rede de glúten, a malha proteica tridimensional que retém o CO₂ produzido pela fermentação e confere estrutura ao pão.</p>
 
       <h3>Técnicas de Sova</h3>
       <ul>
@@ -299,12 +299,12 @@ const CHAPTERS = [
       <h2>2. As Reações de Maillard e a Caramelização</h2>
       <p>A cor dourada e o aroma irresistível do pão são produto de duas reações químicas distintas:</p>
       <ul>
-        <li><strong>Reação de Maillard:</strong> ocorre entre aminoácidos e açúcares redutores a partir de 140°C. Produz centenas de compostos aromáticos — notas de caramelo, nozes, biscoito e malte.</li>
+        <li><strong>Reação de Maillard:</strong> ocorre entre aminoácidos e açúcares redutores a partir de 140°C. Produz centenas de compostos aromáticos, notas de caramelo, nozes, biscoito e malte.</li>
         <li><strong>Caramelização:</strong> degradação térmica dos açúcares a temperaturas acima de 160°C. Contribui para a coloração marrom-dourada e sabores adocicados na crosta.</li>
       </ul>
 
       <div class="callout-quote">
-        <p>A crosta escura não é um erro — é desenvolvimento de sabor. Padeiros experientes sabem que uma crosta bem desenvolvida é onde 80% do sabor de um pão artesanal está concentrado.</p>
+        <p>A crosta escura não é um erro, é desenvolvimento de sabor. Padeiros experientes sabem que uma crosta bem desenvolvida é onde 80% do sabor de um pão artesanal está concentrado.</p>
       </div>
 
       <h2>3. Protocolo de Temperatura</h2>
@@ -449,7 +449,7 @@ const CHAPTERS = [
       </div>
 
       <h2>1. Sourdough e o Índice Glicêmico</h2>
-      <p>Pães de fermentação natural com massa madre têm <strong>índice glicêmico significativamente menor</strong> do que pães de fermentação rápida com fermento comercial. Os ácidos orgânicos produzidos (lático e acético) reduzem a velocidade de digestão do amido, resultando em resposta glicêmica mais controlada — fundamental para pacientes com resistência insulínica, diabetes tipo 2 e PCOS.</p>
+      <p>Pães de fermentação natural com massa madre têm <strong>índice glicêmico significativamente menor</strong> do que pães de fermentação rápida com fermento comercial. Os ácidos orgânicos produzidos (lático e acético) reduzem a velocidade de digestão do amido, resultando em resposta glicêmica mais controlada, fundamental para pacientes com resistência insulínica, diabetes tipo 2 e PCOS.</p>
 
       <h2>2. Redução de Antinutrientes pela Fermentação</h2>
       <p>Os fitatos, presentes em grãos integrais, quelam minerais como ferro, zinco e magnésio, reduzindo sua absorção. A fermentação longa, especialmente com massa madre, ativa a fitase endógena da farinha e degrada a maior parte dos fitatos — tornando o pão integral feito com fermentação natural <strong>nutricionalmente superior</strong> ao pão integral convencional.</p>
@@ -479,7 +479,7 @@ const CHAPTERS = [
       </div>
 
       <div class="callout-quote">
-        <p>Um pão bem feito, fermentado lentamente com ingredientes de qualidade, não é indulgência. É nutrição de verdade — ciência e prazer no mesmo alimento.</p>
+        <p>Um pão bem feito, fermentado lentamente com ingredientes de qualidade, não é indulgência. É nutrição de verdade, ciência e prazer no mesmo alimento.</p>
       </div>
     `
   },
@@ -492,7 +492,7 @@ const CHAPTERS = [
         <div class="chapter-cover-ornament">✦ ✦ ✦</div>
         <div class="chapter-cover-num">Capítulo VIII</div>
         <h1 class="chapter-cover-title">Receitas Simples e Rápidas</h1>
-        <p class="chapter-cover-subtitle">Versões acessíveis com Farinha de Trigo Tipo 1 — para começar hoje.</p>
+        <p class="chapter-cover-subtitle">Versões acessíveis com Farinha de Trigo Tipo 1 para começar hoje.</p>
       </div>
 
       <p>Nem sempre temos acesso à farinha de força ou à massa madre ativa. As receitas a seguir foram desenvolvidas com farinha de trigo tipo 1 — a farinha padrão encontrada em qualquer mercado —, fermento biológico seco ou fresco e técnicas simplificadas.</p>
@@ -595,7 +595,7 @@ const CHAPTERS = [
         <div class="chapter-cover-ornament">✦ ✦ ✦</div>
         <div class="chapter-cover-num">Guia Final</div>
         <h1 class="chapter-cover-title">Guia de Marcas e Produtos</h1>
-        <p class="chapter-cover-subtitle">Tudo o que você precisa — do básico ao profissional. Seleção criteriosa do mercado brasileiro.</p>
+        <p class="chapter-cover-subtitle">Tudo o que você precisa, do básico ao profissional. Seleção criteriosa do mercado brasileiro.</p>
       </div>
 
       <h2>1. Farinhas</h2>
