@@ -687,7 +687,7 @@ const CHAPTERS = [
       </div>
 
       <p style="text-align:center; margin-top:48px; font-family:'Lora',serif; font-style:italic; color:var(--text-muted);">
-        Taylan Souza dos Santos<br>
+        Taylan Santos<br>
         <span style="font-size:13px;">Nutricionista · Bioquímica da Nutrição · Nutrigenômica · Ciência de Dados<br>São Paulo, SP, Brasil</span>
       </p>
     `
